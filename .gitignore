@@ -110,5 +110,4 @@ venv.bak/
 dmypy.json
 
 .ipynb_checkpoints
-data
-.gitignore
+.gitignore/*
