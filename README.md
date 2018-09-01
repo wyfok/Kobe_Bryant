@@ -3,6 +3,7 @@ Kobe Bryant Shot Selection
 
 Which shots did Kobe sink?
 
+(Originally this was a project of master study, using Knime to do analysis and prediction. Follow original steps in Knime and transform to python code)
 
 Data from Kaggle 
 https://www.kaggle.com/c/kobe-bryant-shot-selection
